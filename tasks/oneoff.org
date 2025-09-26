@@ -1,0 +1,122 @@
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+LATEX_HEADER: \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+TITLE: Read Oneoff Tasks
+
+* List of Oneoff Tasks :TASK:ONEOFF:READ:META:
+** PENDING Watch podcast on procrastination :PODCAST:
+:PROPERTIES:
+:ID:       97bb5e0b-bdc6-4f6f-a8bc-1b9ec506a721
+:END:
+- *OBJECTIVE:* What podcast on procastination and checkout [[id:dab253c3-d227-4471-8eda-41f63f36563c][Subjects on procrastination]]
+- *Reference:* [[https://www.youtube.com/watch?v=VBifDZwPiI4#__preview][How to defuse procrastination @Youtube]]
+** DONE Watch Forever Child podcast :PODCAST:
+CLOSED: [2025-07-24 Thu 13:42] DEADLINE: <2025-07-24 Thu>
+- *OBJECTIVE:* Finish podcast Forever Child
+- *Reference:* [[https://www.youtube.com/embed/e0ec2-E5Xq8?start=19m20s#__preview][Why you never grow up - Healthygamergg @Youtube]]
+** NEXT PARA vs zettelkasten [%] :PKM:
+- *OBJECTIVE:* Determine which =PKM= is more compatible with current workflow
+- *Visit:* [[id:08c4ff53-dd44-419b-b305-23ccccba4250][Develop a hybrid PKM system @Orgmode]]
+- *[NOTE]* taken on [2025-06-20 20:42]:
+  PARA and Zettelkasten are very different in nature. While one excel in structural and coordinated notes the other is very chaotic and flexible. However a PKM does not obligated to just one method. There are attempts to mix these methods to create a suitable PKM system for ones knowledge and/or tasks management
+- *Reference:* [[https://l.opnxng.com/r/PKMS/comments/1ae7spf/what_is_pkm/][What is a PKM @Reddit]]
+*** DONE Learn PARA system :PARA:
+CLOSED: [2025-06-21 Sat 13:23] DEADLINE: <2025-06-21 Sat 20:00>
+:PROPERTIES:
+:ID:       5ee85686-4255-4634-afbc-c364fa16a025
+:END:
+- *OBJECTIVE:* Learn para system and compare it to current workflow
+- *[NOTE]* taken on [2025-06-21 13:26]:
+  PARA system is very similar to current =pkm= system with some key differences:
+  - PARA notes live in a master directory wheres current system notes live sub-directories
+  - PARA is not scalable with very large amount of notes and lack of cross referencing between notes
+  - PARA is easy to setup but hard to maintain
+  - PARA system is very suitable for tracking tasks and ideas
+- *Reference:* [[https://fortelabs.com/blog/para/][What is para method @Blog]]
+** PARTIAL Learn zettelkasten system [66%] :ZETTELKASTEN:
+CLOSED: [2025-08-22 Fri 12:03]
+:PROPERTIES:
+:ID:       ad309d55-fe5c-4d83-9a8c-42106cadce43
+:END:
+- *OBJECTIVE:* Develop a [[id:705d42e4-c980-4d53-ad38-029f28d503dc][Zettelkasten system]] for note repo
+- *Complication:* How to access information in zettelkasten
+- *Reference:*
+  - [[https://www.youtube.com/watch?v=Q2zY7l2tzoQ#__preview][zettelkasten system explain @Youtube]]
+  - [[https://github.com/rhelmstedter/Zettelkasten/blob/main/zettel/202101241731.md][zettelkasten example repo @Github]]
+  - [[https://m.opnxng.com/@fairylights_io/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6][Getting started with zettelkasten @Blog]]
+  - [[https://thoughtfulatlas.substack.com/p/a-new-identifier-system-for-zettelkasten][New identifier for zettelkasten @Blog]]
+*** DONE Learn Luhmann index system [100%]
+CLOSED: [2025-07-01 Tue 22:05]
+- *OBJECTIVE:* What is the Luhmann's index system why it works
+- *Reference:* [[id:8bc68863-62d7-4676-9d14-1fe46dc7019f][The Indexing System @Org]]
+**** DONE Learn Naming and Managing Index of Each Note
+CLOSED: [2025-07-01 Tue 22:05] DEADLINE: <2025-07-01 Tue 23:50>
+- *OBJECTIVE:* How to manage large amount of notes using =index-system=
+- *Reference:* [[https://www.youtube.com/embed/92EEEsptqfI?start=2m3s#__preview][ZK Indexing system showcase @Youtube]]
+**** DONE Learn Searching Using The Index System
+CLOSED: [2025-07-01 Tue 22:05] DEADLINE: <2025-07-01 Tue 23:50>
+- *OBJECTIVE:* Search for a note using the =index-system=
+- *Reference:* [[https://www.youtube.com/embed/92EEEsptqfI?start=2m28s#__preview][ZK Indexing system walk-through @Youtube]]
+*** PENDING Learn Referencing Materials in ZK-system
+- *OBJECTIVE:* How to create and store =references= in ZK-system
+- *Reference:* [[https://forum.zettelkasten.de/discussion/1807/reference-notes][How to use reference note in ZK-system @Discussion-ZKForum]]
+**** DONE Linking between notes :ORGROAM:
+CLOSED: [2025-08-22 Fri 11:52] DEADLINE: <2025-08-22 Fri>
+- *OBJECTIVE:* Comprehensively link notes and materials
+- *Reference:* [[https://zettelkasten.de/posts/backlinks-are-bad-links/][Backlinks are bad @Zettelkasten-forum]]
+*** DONE Learn Folgezettel :FOLGEZETTEL:
+CLOSED: [2025-07-10 Thu 05:56] DEADLINE: <2025-07-10 Thu>
+- *OBJECTIVE:* Learn how to start using Folgekasten in a Zettelkasten system
+- *Reference:* [[https://old.reddit.com/r/Zettelkasten/comments/10sm19g/how_to_use_folgezettel_in_your_zettelkasten/][How to use Folgekasten in zettelkasten @Reddit]]
+** TODO Research prompt engineering :RESEARCH:AI:
+- *Goal:* /Learn to create prompts/
+- *References:* [[https://l.opnxng.com/r/PromptEngineering/comments/1kggmh0/google_dropped_a_68page_prompt_engineering_guide/][Google 68-page prompt engineering guide @Reddit]]
+- *Document:* [[file:~/Documents/guides/prompt-engineering-overview.md][prompt-engineering-overview @Markdown]]
+** PENDING News update method :NEWS:LINUX:ANDROID:
+- *OBJECTIVE:*
+  - [ ] Update global and local news
+  - [ ] Sync between linux and android
+** NEXT Develop a hybrid PKM system [50%] :PKM:
+:PROPERTIES:
+:ID:       08c4ff53-dd44-419b-b305-23ccccba4250
+:END:
+- *OBJECTIVE:* Taking advantage of orderly nature of PARA method and chaotic nature of zettelkasten methodologies simultaneously
+- *Reference:* [[https://forum.obsidian.md/t/taking-advantage-of-orderly-para-and-chaotic-zettelkasten-methodologies-simultaneously/47786][Zettel PARA hybrid system discussion @Forum-Obsidian]]
+*** PENDING ZK-roam instruction :ZETTELKASTEN:ORGROAM:
+- *OBJECTIVE:* Develop an easy to follow instructions
+*** DONE Tasks management :PARA:
+CLOSED: [2025-06-21 Sat 15:15]
+- *OBJECTIVE:* How to keep daily agenda and notes in a zettelkasten system
+- *Complication:* How to manage daily tasks with zettelkasten
+- *[NOTE]* taken on [2025-06-21 14:00]:
+  - Using PARA system to track and develop tasks
+  - PARA acting as an index node for zettelkasten
+- *Reference:*
+  - [[https://forum.zettelkasten.de/discussion/2037/daily-notes-in-a-zettelkasten][Daily notes in a zettelkasten @Forum-zettlekasten]]
+  - [[https://forum.zettelkasten.de/discussion/100/zettels-and-org-mode][Orgmode and zettle @Forum-zettlekasten]]
+*** TODO Ease of accessing information
+- *OBJECTIVE:* How to easily access information from this system
+- [-] *Issue:* [1/2]
+  1. Zettelkasten notes are not easy to access via directory (the nature of the method)
+  2. [X] Github does not support =id-link= e.g. =[[id:<uuid>]]=
+- *[NOTE]* taken on [2025-06-22 02:46]:
+  2. Workaround using =anchor links=
+- *Reference:* [[id:64a2f52f-b16c-454b-92b9-9de7a9d431f0][Zettelkasten note search and access @Orgmode]]
+*** PARTIAL Develop notes project structure :PARA:ZETTELKASTEN:
+CLOSED: [2025-07-24 Thu 17:15]
+:PROPERTIES:
+:ID:       eb931a07-6f24-49d7-b01b-6bda886f1b83
+:END:
+- *OBJECTIVE:* Consider Ease of access for notes then develop a structure to access information from both systems
+-----
+- *[NOTE]* taken on <2025-07-24 16:49>:
+  - [[id:07abb572-bdfe-4292-a285-00a02605094a][ZK-roam notes structure]] comprise of two layers: 
+    - An *outer* layer which is a modified =PARA system=
+    - An *inner* layer which is a =folgekasten system=
+-----
+**** TODO Note template
+- *OBJECTIVE:* How should a note looks like
+** PENDING Setup Calibre Workflow :DATABASE:EBOOK:
+- *OBJECTIVE:* Manage personal library with =calibre=
+- *Reference:* [[https://old.reddit.com/r/Calibre/comments/v44f2u/what_is_your_reading_workflow_with_calibre/][Workflow with Calibre @Reddit]]
+  

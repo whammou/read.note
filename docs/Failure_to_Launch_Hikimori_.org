@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID: 4e35b143-8850-47da-ab7d-73f7030c71af
+:ROAM_ORIGIN: dab253c3-d227-4471-8eda-41f63f36563c
+:END:
+#+TITLE: Failure to Launch (Hikimori)
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+FILETAGS: :DOC:PROJECT:READ:PSYCHOLOGY:
+#+HTML:<details>
+
+* Failure to Launch (Hikimor) :DOC:META:READ:PSYCHOLOGY:
+#+HTML:</details>
+/A closer look at failure to launch in life/

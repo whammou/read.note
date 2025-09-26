@@ -1,0 +1,39 @@
+:PROPERTIES:
+:ID: 1e0630b6-f143-4ee1-8ed7-9ac6d078cebc
+:ROAM_ORIGIN: 4e35b143-8850-47da-ab7d-73f7030c71af
+:END:
+#+TITLE: ZK-roam notes structure
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+FILETAGS: :DOC:PROJECT:READ:PKM:ZETTELKASTEN:ORGROAM:
+#+HTML:<details>
+
+* ZK-roam notes structure :DOC:META:READ:PKM:ZETTELKASTEN:ORGROAM:
+:PROPERTIES:
+:ID:       07abb572-bdfe-4292-a285-00a02605094a
+:END:
+#+HTML:</details>
+- Notes structure will consist of 2 layers: =PARA= (outer) and =ZETTELKASTEN= (inner)
+- Outer layer notes or PARA is responsible for managing/arrange tasks and processing information
+  
+1. *Outer layer* - feeds notes into inner vault for permanent save
+   
+   - *Managing tasks:*
+     - Create interactive tasks
+     - Linking tasks between different areas
+   
+   - *Capturing information:*
+     - Quickly capture sources
+     - Take fleeting notes
+       
+2. *Inner layer* - is responsible for condensing and developing the processed information
+   
+   - *Condensing information:*
+     - Capture *processed* information
+     - Saving notes in an [[id:8bc68863-62d7-4676-9d14-1fe46dc7019f][index system @Org]]
+   
+   - *Developing connections:*
+     - Linking between notes are saved in bi-directional linking system
+     - Reveal hidden connection over time

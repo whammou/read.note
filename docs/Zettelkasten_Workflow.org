@@ -1,0 +1,120 @@
+:PROPERTIES:
+:ID: 328c0972-5c7f-4aff-b3e7-e3ddd7511252
+:ROAM_ORIGIN: 705d42e4-c980-4d53-ad38-029f28d503dc
+:END:
+#+TITLE: Zettelkasten Workflow
+
+#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) WAITING(w) NEXT(n) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+FILETAGS: :DOC:PROJECT:READ:PKM:ZETTELKASTEN:
+#+HTML:<details>
+
+* Zettelkasten Workflow :DOC:META:READ:PKM:ZETTELKASTEN:
+:PROPERTIES:
+:ID:       1e3cf208-3bec-4d2f-bcb0-a61fdcbfb355
+:END:
+#+HTML:</details>
+- *OBJECTIVE:* Visualize how to a zettelkasten workflow looks like
+** Note Translating Process Workflow
+:PROPERTIES:
+:ID:       2571fa1d-4106-4bb6-b597-804b7fc0b906
+:END:
+- *[NOTE]* taken on [2025-06-30 00:02]:
+  1. Starting with =fleeting note= take a fleeting note when an idea meet these criteria:
+     1. You want to remember this idea permanently
+     2. you want to use this idea in your work
+        #+name: fleeting note
+        #+begin_html html
+        <p align='left'>
+        <IMG src='https://cdn-images-1.medium.com/fit/c/800/457/1*fGr7PqyhychMxbDPk-hUiw.png' alt='fleeting note' width=50%/>
+        </p>
+        #+end_html
+  2. Pick up from =fleeting note= and translate into =literature note=
+     1. Write it in your own words
+     2. Write with great care so that revision is possible
+     3. Keep it only idea per note
+        - If you need to define a term for the concept, create a =term definition= card and link to it
+     4. Include the source you got the idea from
+     5. Include relevant citation (LastName, year, pp.22)
+        #+name: literature note
+        #+begin_html html
+        <p align='left'>
+        <IMG src='https://cdn-images-1.medium.com/fit/c/800/347/1*DprUr_6QbqbUKNl4Oe7t9Q.png' alt='literature note' width=50%/>
+        </p>
+        #+end_html
+  3. Translating from =literature note= into a =permanent note=
+     1. =Literature note= are written in *context of the source*. Whereas =permanent note= is written on context of *your own idea*
+     2. =Literature  note= should have only 1 connection. While =permanent notes= have many connections
+        - To individual notes
+        - As part of multiple topics
+     3. =Permanent notes= are connectable across multiple =contexts=
+        - Content First topics
+          #+name: content first topics
+          #+begin_html html
+          <p align='left'>
+          <IMG src='https://cdn-images-1.medium.com/fit/c/800/332/1*2iUZcCgGYfyoUyzSLxR0ig.png' alt='content first topics' width=50%/>
+          </p>
+          #+end_html
+        - Topics forming from contents
+          #+name: topics forming from contents
+          #+begin_html html
+          <p align='left'>
+          <IMG src='https://cdn-images-1.medium.com/fit/c/800/619/1*kfZoMrTpYFKoGwuSqUAKJg.png' alt='topics forming from contents' width=50%/>
+          </p>
+          #+end_html
+- *Reference:* [[https://m.opnxng.com/@fairylights_io/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6][Zettelkasten translating notes workflow @Blog]]
+** Linking Process Between Notes
+:PROPERTIES:
+:ID:       c75bbd86-a73f-4ad4-8f18-cf314dee1752
+:END:
+- *[NOTE]* taken on [2025-06-30 01:01]:
+1. Connect notes =chronologically=:
+   Provides a link to another note that can be combined with the current note in a way that still makes sense *without* needing to modify either of them
+   - A term mentioned in a note which links to a =term definition note=
+   - An author mentioned in a note which links to a =biography note=
+   - A note which contradict a finding from a =fact note=
+   - A note which adds something to an existing note
+   - A personal comment on the idea mentioned in another note
+2. Connect notes via a =bridge note=:
+   Connect two seemingly unrelated notes using a separate note that explains why you think they are connected
+3. Connect notes via =topic index=:
+   - A =index topic= note is a note contain a list of links to idea that are directly related to a topic
+   - You create a topic indexes once your notes have formed a =topic cluster=
+** Creation of an Index Note
+:PROPERTIES:
+:ID:       31b2e5ae-035a-423c-bb10-bbab7b5de869
+:END:
+- *[NOTE]* taken on [2025-06-30 01:18]:
+  - Index note represents a cluster of related permanent notes
+    #+name: strategies
+    #+begin_html html
+    <p align='left'>
+    <IMG src='https://cdn-images-1.medium.com/fit/c/696/364/1*4U_9xI1ypiWvE99axi_PWA.png' alt='stratigies' width=50%/>
+    </p>
+    #+end_html
+    #+name: concepts
+    #+begin_html html
+    <p align='left'>
+    <IMG src='https://cdn-images-1.medium.com/fit/c/684/720/1*XJSwHMagGJMghg8qTvVhaw.png' alt='concepts' width=50%/>
+    </p>
+    #+end_html
+  - Keyword note is similar to an index note except at a more general level
+    - Represent in a form of a TOC
+      #+name: keyword note
+      #+begin_html html
+      <p align='left'>
+      <IMG src='https://cdn-images-1.medium.com/fit/c/710/426/1*IAs1IKT--tQj9jLeFcVTKQ.png' alt='keyword note' width=50%/>
+      </p>
+      #+end_html
+** Zettelkasten note search and access
+:PROPERTIES:
+:ID:       64a2f52f-b16c-454b-92b9-9de7a9d431f0
+:END:
+- *OBJECTIVE:* How to search and access notes in a Zettelkasten system
+-----
+- *[NOTE]* taken on <2025-07-24 17:15>:
+  - Notes are orginized with orgmode
+  - Notes will be search using =tags= and =title= search
+-----
+- *Reference:* [[https://l.opnxng.com/r/Zettelkasten/comments/1ejuwtj/how_to_find_my_notes_in_the_zettelkasten/][How do I access my notes in zettelkasten @Reddit]]
