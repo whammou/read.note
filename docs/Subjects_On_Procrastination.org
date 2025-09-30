@@ -11,11 +11,8 @@
 #+HTML:<details>
 
 * Subjects on Procrastination :DOC:META:READ:PSYCHOLOGY:
-:PROPERTIES:
-:ID:       dab253c3-d227-4471-8eda-41f63f36563c
-:END:
 #+HTML:</details>
 - *OBJECTIVE:* Learn about procrastination and how to defuse it
 *** Do the next best thing
-- *OBJECTIVE:* Techniqute to defuse to procastination
+- *OBJECTIVE:* Technique to defuse to procrastination
 - *Reference:* [[https://www.youtube.com/embed/VBifDZwPiI4?start=8m20s#__preview][What is procrastination and how to defuse it @Youtube]]
