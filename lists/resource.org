@@ -1,0 +1,21 @@
+#+TITLE: Read Resource Lists
+
+#+TODO: TODO(t) (e) DOING(d) PENDING(p) OUTLINE(o) RESEARCH(s) FEEDBACK(b) NEXT(n) TARGET(g) | IDEA(i) ABORTED(a) PARTIAL(r) REVIEW(v) DONE(f)
+#+LATEX_HEADER: \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
+#+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
+#+HTML:<details>
+
+* Resource Lists :LIST:READ:RESOURCE:META:
+#+HTML:</details>
+** DONE Zettlekasten examples :ZETTELKASTEN:
+CLOSED: [2025-06-29 Sun 02:54]
+:PROPERTIES:
+:ID:       550c3397-ee19-4a0d-b3ef-87a216cf6662
+:END:
+- *OBJECTIVE:* Looking for public zettelkasten repo
+- *Reference:*
+  - [[https://github.com/KasperZutterman/Second-Brain][A curated list public zettelkasten @Github]]
+  - [[https://zk.zettel.page/][Public wiki for the Zettelkasten method @Blog]]
+  - [[https://forum.zettelkasten.de/][Zettelkasten forum @Forum]]
+  - [[https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!][Zettelkasten example: Quantum Well @Obsidian]]
+  - [[https://github.com/kmaasrud/wiki][Another personal zettelksaten project @Github]]
