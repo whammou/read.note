@@ -4,7 +4,7 @@
 #+TITLE: Read Oneoff Tasks
 
 * List of Oneoff Tasks :TASK:ONEOFF:READ:META:
-** PENDING Watch podcast on procrastination :PODCAST:
+** PEND Watch podcast on procrastination :PODCAST:
 :PROPERTIES:
 :ID:       97bb5e0b-bdc6-4f6f-a8bc-1b9ec506a721
 :END:
@@ -33,7 +33,7 @@ CLOSED: [2025-06-21 Sat 13:23] DEADLINE: <2025-06-21 Sat 20:00>
   - PARA is easy to setup but hard to maintain
   - PARA system is very suitable for tracking tasks and ideas
 - *Reference:* [[https://fortelabs.com/blog/para/][What is para method @Blog]]
-** PARTIAL Learn zettelkasten system [66%] :ZETTELKASTEN:
+** PRTL Learn zettelkasten system [66%] :ZETTELKASTEN:
 CLOSED: [2025-08-22 Fri 12:03]
 :PROPERTIES:
 :ID:       ad309d55-fe5c-4d83-9a8c-42106cadce43
@@ -57,7 +57,7 @@ CLOSED: [2025-07-01 Tue 22:05] DEADLINE: <2025-07-01 Tue 23:50>
 CLOSED: [2025-07-01 Tue 22:05] DEADLINE: <2025-07-01 Tue 23:50>
 - *OBJECTIVE:* Search for a note using the =index-system=
 - *Reference:* [[https://www.youtube.com/embed/92EEEsptqfI?start=2m28s#__preview][ZK Indexing system walk-through @Youtube]]
-*** PENDING Learn Referencing Materials in ZK-system
+*** PEND Learn Referencing Materials in ZK-system
 - *OBJECTIVE:* How to create and store =references= in ZK-system
 - *Reference:* [[https://forum.zettelkasten.de/discussion/1807/reference-notes][How to use reference note in ZK-system @Discussion-ZKForum]]
 **** DONE Linking between notes :ORGROAM:
@@ -68,11 +68,11 @@ CLOSED: [2025-08-22 Fri 11:52] DEADLINE: <2025-08-22 Fri>
 CLOSED: [2025-07-10 Thu 05:56] DEADLINE: <2025-07-10 Thu>
 - *OBJECTIVE:* Learn how to start using Folgekasten in a Zettelkasten system
 - *Reference:* [[https://old.reddit.com/r/Zettelkasten/comments/10sm19g/how_to_use_folgezettel_in_your_zettelkasten/][How to use Folgekasten in zettelkasten @Reddit]]
-** TODO Research prompt engineering :RESEARCH:AI:
+** TODO Research prompt engineering :EXPL:AI:
 - *Goal:* /Learn to create prompts/
 - *References:* [[https://l.opnxng.com/r/PromptEngineering/comments/1kggmh0/google_dropped_a_68page_prompt_engineering_guide/][Google 68-page prompt engineering guide @Reddit]]
 - *Document:* [[file:~/Documents/guides/prompt-engineering-overview.md][prompt-engineering-overview @Markdown]]
-** PENDING News update method :NEWS:LINUX:ANDROID:
+** PEND News update method :NEWS:LINUX:ANDROID:
 - *OBJECTIVE:*
   - [ ] Update global and local news
   - [ ] Sync between linux and android
@@ -82,7 +82,7 @@ CLOSED: [2025-07-10 Thu 05:56] DEADLINE: <2025-07-10 Thu>
 :END:
 - *OBJECTIVE:* Taking advantage of orderly nature of PARA method and chaotic nature of zettelkasten methodologies simultaneously
 - *Reference:* [[https://forum.obsidian.md/t/taking-advantage-of-orderly-para-and-chaotic-zettelkasten-methodologies-simultaneously/47786][Zettel PARA hybrid system discussion @Forum-Obsidian]]
-*** PENDING ZK-roam instruction :ZETTELKASTEN:ORGROAM:
+*** PEND ZK-roam instruction :ZETTELKASTEN:ORGROAM:
 - *OBJECTIVE:* Develop an easy to follow instructions
 *** DONE Tasks management :PARA:
 CLOSED: [2025-06-21 Sat 15:15]
@@ -102,7 +102,7 @@ CLOSED: [2025-06-21 Sat 15:15]
 - *[NOTE]* taken on [2025-06-22 02:46]:
   2. Workaround using =anchor links=
 - *Reference:* [[id:64a2f52f-b16c-454b-92b9-9de7a9d431f0][Zettelkasten note search and access @Orgmode]]
-*** PARTIAL Develop notes project structure :PARA:ZETTELKASTEN:
+*** PRTL Develop notes project structure :PARA:ZETTELKASTEN:
 CLOSED: [2025-07-24 Thu 17:15]
 :PROPERTIES:
 :ID:       eb931a07-6f24-49d7-b01b-6bda886f1b83
@@ -116,7 +116,7 @@ CLOSED: [2025-07-24 Thu 17:15]
 -----
 **** TODO Note template
 - *OBJECTIVE:* How should a note looks like
-** PENDING Setup Calibre Workflow :DATABASE:EBOOK:
+** PEND Setup Calibre Workflow :DATABASE:EBOOK:
 - *OBJECTIVE:* Manage personal library with =calibre=
 - *Reference:* [[https://old.reddit.com/r/Calibre/comments/v44f2u/what_is_your_reading_workflow_with_calibre/][Workflow with Calibre @Reddit]]
   
