@@ -11,9 +11,6 @@
 #+HTML:<details>
 
 * ZK-roam notes structure :DOC:META:READ:PKM:ZETTELKASTEN:ORGROAM:
-:PROPERTIES:
-:ID:       07abb572-bdfe-4292-a285-00a02605094a
-:END:
 #+HTML:</details>
 - Notes structure will consist of 2 layers: =PARA= (outer) and =ZETTELKASTEN= (inner)
 - Outer layer notes or PARA is responsible for managing/arrange tasks and processing information
