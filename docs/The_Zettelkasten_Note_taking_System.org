@@ -10,9 +10,6 @@
 #+HTML:<details>
 
 ** The Zettelkasten Note-taking System :DOC:META:READ:PKM:ZETTELKASTEN:
-:PROPERTIES:
-:ID:       705d42e4-c980-4d53-ad38-029f28d503dc
-:END:
 #+HTML:</details>
 - *OBJECTIVE:* Learn the structure of a zettelkasten system
 - *Reference:* [[https://en.wikipedia.org/wiki/Zettelkasten][Zettelkasn @Wikipedia]]
