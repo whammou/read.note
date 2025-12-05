@@ -119,4 +119,8 @@ CLOSED: [2025-07-24 Thu 17:15]
 ** PEND Setup Calibre Workflow :DATABASE:EBOOK:
 - *OBJECTIVE:* Manage personal library with =calibre=
 - *Reference:* [[https://old.reddit.com/r/Calibre/comments/v44f2u/what_is_your_reading_workflow_with_calibre/][Workflow with Calibre @Reddit]]
-  
+** TODO The Need to be Right :PSYCHOLOGY:
+DEADLINE: <2025-12-05 Fri 20:00>
+- *OBJECTIVE:* Analyze on the has-to-be-right =attitude=
+- *Check-out:* [[id:f71ab771-5b04-423c-b557-05a5eb6c9a93][Analyze on the Need to be Right @Org]]
+- *Reference:* [[https://www.sciencenewstoday.org/the-psychology-behind-your-need-to-be-right][Your need to be right @Blog]]
