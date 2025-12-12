@@ -15,9 +15,9 @@
 Draft items are subjected to change and refile!
 #+END_QUOTE
 ** OUTL Analyze on the Need to be Right :PSYCHOLOGY:
-DEADLINE: <2025-12-11 Thu 20:00>
+DEADLINE: <2025-12-12 Fri 20:00>
 :PROPERTIES:
-:ID: f71ab771-5b04-423c-b557-05a5eb6c9a93
+:ID:       f71ab771-5b04-423c-b557-05a5eb6c9a93
 :END:
 /Analytical point of view on why do I feel the need to be justify myself and how to improve upon the matter/
 /Check-out:/ [[https://www.sciencenewstoday.org/the-psychology-behind-your-need-to-be-right][Why do you constantly need to be right @Blog]]
