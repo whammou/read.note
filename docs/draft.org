@@ -15,7 +15,7 @@
 Draft items are subjected to change and refile!
 #+END_QUOTE
 ** OUTL Analyze on the Need to be Right :PSYCHOLOGY:
-DEADLINE: <2025-12-19 Fri 20:00>
+DEADLINE: <2025-12-20 Sat 20:00>
 :PROPERTIES:
 :ID:       f71ab771-5b04-423c-b557-05a5eb6c9a93
 :END:
