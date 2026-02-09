@@ -14,7 +14,7 @@
 CLOSED: [2025-07-24 Thu 13:42] DEADLINE: <2025-07-24 Thu>
 - *OBJECTIVE:* Finish podcast Forever Child
 - *Reference:* [[https://www.youtube.com/embed/e0ec2-E5Xq8?start=19m20s#__preview][Why you never grow up - Healthygamergg @Youtube]]
-** NEXT PARA vs zettelkasten [%] :PKM:
+** PEND PARA vs zettelkasten [%] :PKM:
 - *OBJECTIVE:* Determine which =PKM= is more compatible with current workflow
 - *Visit:* [[id:08c4ff53-dd44-419b-b305-23ccccba4250][Develop a hybrid PKM system @Orgmode]]
 - *[NOTE]* taken on [2025-06-20 20:42]:
@@ -76,7 +76,7 @@ CLOSED: [2025-07-10 Thu 05:56] DEADLINE: <2025-07-10 Thu>
 - *OBJECTIVE:*
   - [ ] Update global and local news
   - [ ] Sync between linux and android
-** NEXT Develop a hybrid PKM system [50%] :PKM:
+** PEND Develop a hybrid PKM system [50%] :PKM:
 :PROPERTIES:
 :ID:       08c4ff53-dd44-419b-b305-23ccccba4250
 :END:
