@@ -1,0 +1,41 @@
+#+TITLE: Read – Overview
+#+DESCRIPTION: Reading notes and book summaries.
+#+FILETAGS: :READ:
+
+* Overview
+  Reading notes, book summaries, highlights, and a reading list.
+
+* Directory Layout
+  | Path          | Purpose                                                          |
+  |---------------+------------------------------------------------------------------|
+  | =README.org=  | This file – high‑level description (you are reading it)           |
+  | =docs/=       | Org/Markdown documents – notes, guides, references                |
+  | =tasks/=      | Task files (`recurring.org`, `oneoff.org`, …)                    |
+  | =lists/=      | Ordered collections (reading lists, to‑read) – optional           |
+  | =assets/=     | Book covers, excerpts, or any binary material – optional          |
+  | =.logs/=      | Log file (`log.org`) – chronological change log                  |
+  | =.git/=       | Git submodule (managed by the super‑repo)                         |
+
+* Tag & State Conventions (inherited from the main repo)
+  - *States* – TODO, PEND, GOING, DONE, ARCHIVED, etc. (see main README).
+  - *Tags* – Use the hierarchical tag format:
+    :READ:<CATEGORY>:<TYPE>:<DETAIL>:
+    Example: =:READ:SUMMARY:NONFICTION:=
+
+* Typical Files
+  - =docs/<something>.org= – book notes, chapter summaries, reflections.
+  - =tasks/recurring.org= – regular reading sessions or review tasks.
+  - =tasks/oneoff.org= – one‑time goals like finishing a book.
+  - =lists/books.org= – curated reading list, wishlist.
+  - =assets/…= – book covers, excerpt images.
+
+* How to Use
+  1. *Add a note* – create a new Org file under =docs/= and link to it from a task if needed.
+  2. *Create a task* – add a headline under the appropriate file in =tasks/= using the standard TODO states.
+  3. *Tag it* – follow the tag anatomy described above so Org‑mode search works across the whole super‑repo.
+  4. *Commit* – daily commits are encouraged; the super‑repo pulls submodule updates automatically.
+
+* References
+  - Main repository README.org – overall philosophy, state & tag definitions:
+    [[file:../README.org::#STATES and TAGS][Main README – STATES & TAGS]]
+  - External tools: nvim‑orgmode, Orgzly‑android (see main README for integration tips).
