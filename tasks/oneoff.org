@@ -68,7 +68,7 @@ CLOSED: [2025-08-22 Fri 11:52] DEADLINE: <2025-08-22 Fri>
 CLOSED: [2025-07-10 Thu 05:56] DEADLINE: <2025-07-10 Thu>
 - *OBJECTIVE:* Learn how to start using Folgekasten in a Zettelkasten system
 - *Reference:* [[https://old.reddit.com/r/Zettelkasten/comments/10sm19g/how_to_use_folgezettel_in_your_zettelkasten/][How to use Folgekasten in zettelkasten @Reddit]]
-** TODO Research prompt engineering :EXPL:AI:
+** PEND Research prompt engineering :EXPL:AI:
 - *Goal:* /Learn to create prompts/
 - *References:* [[https://l.opnxng.com/r/PromptEngineering/comments/1kggmh0/google_dropped_a_68page_prompt_engineering_guide/][Google 68-page prompt engineering guide @Reddit]]
 - *Document:* [[file:~/Documents/guides/prompt-engineering-overview.md][prompt-engineering-overview @Markdown]]
@@ -94,7 +94,7 @@ CLOSED: [2025-06-21 Sat 15:15]
 - *Reference:*
   - [[https://forum.zettelkasten.de/discussion/2037/daily-notes-in-a-zettelkasten][Daily notes in a zettelkasten @Forum-zettlekasten]]
   - [[https://forum.zettelkasten.de/discussion/100/zettels-and-org-mode][Orgmode and zettle @Forum-zettlekasten]]
-*** TODO Ease of accessing information
+*** PEND Ease of accessing information
 - *OBJECTIVE:* How to easily access information from this system
 - [-] *Issue:* [1/2]
   1. Zettelkasten notes are not easy to access via directory (the nature of the method)
