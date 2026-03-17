@@ -6,7 +6,7 @@
 #+FILETAGS: :DOC:DRAFT:READ:
 #+HTML:<details>
 
-* Document Drafts :DOC:DRAFT:READ:META:
+* Document Drafts :DOC:DRAFT:READ:#Meta:
 #+HTML:</details>
 
 #+NAME:Warning Message

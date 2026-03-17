@@ -9,7 +9,7 @@
 #+FILETAGS: :DOC:PROJECT:READ:PKM:ZETTELKASTEN:
 #+HTML:<details>
 
-** The Zettelkasten Note-taking System :DOC:META:READ:PKM:ZETTELKASTEN:
+** The Zettelkasten Note-taking System :DOC:#Meta:READ:PKM:ZETTELKASTEN:
 #+HTML:</details>
 - *OBJECTIVE:* Learn the structure of a zettelkasten system
 - *Reference:* [[https://en.wikipedia.org/wiki/Zettelkasten][Zettelkasn @Wikipedia]]

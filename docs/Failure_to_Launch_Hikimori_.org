@@ -10,6 +10,6 @@
 #+FILETAGS: :DOC:PROJECT:READ:PSYCHOLOGY:
 #+HTML:<details>
 
-* Failure to Launch (Hikimor) :DOC:META:READ:PSYCHOLOGY:
+* Failure to Launch (Hikimor) :DOC:#Meta:READ:PSYCHOLOGY:
 #+HTML:</details>
 /A closer look at failure to launch in life/

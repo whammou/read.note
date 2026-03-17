@@ -10,7 +10,7 @@
 #+FILETAGS: :DOC:PROJECT:READ:PSYCHOLOGY:
 #+HTML:<details>
 
-* Subjects on Procrastination :DOC:META:READ:PSYCHOLOGY:
+* Subjects on Procrastination :DOC:#Meta:READ:PSYCHOLOGY:
 #+HTML:</details>
 - *OBJECTIVE:* Learn about procrastination and how to defuse it
 *** Do the next best thing

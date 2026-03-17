@@ -10,7 +10,7 @@
 #+FILETAGS: :DOC:PROJECT:READ:PKM:ZETTELKASTEN:
 #+HTML:<details>
 
-* Zettelkasten Workflow :DOC:META:READ:PKM:ZETTELKASTEN:
+* Zettelkasten Workflow :DOC:#Meta:READ:PKM:ZETTELKASTEN:
 :PROPERTIES:
 :ID:       1e3cf208-3bec-4d2f-bcb0-a61fdcbfb355
 :END:
