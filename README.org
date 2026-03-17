@@ -1,6 +1,6 @@
 #+TITLE: Read – Overview
 #+DESCRIPTION: Reading notes and book summaries.
-#+FILETAGS: :READ:
+#+FILETAGS: :@Read:
 
 * Overview
   Reading notes, book summaries, highlights, and a reading list.
@@ -19,8 +19,8 @@
 * Tag & State Conventions (inherited from the main repo)
   - *States* – TODO, PEND, GOING, DONE, ARCHIVED, etc. (see main README).
   - *Tags* – Use the hierarchical tag format:
-    :READ:<CATEGORY>:<TYPE>:<DETAIL>:
-    Example: =:READ:SUMMARY:NONFICTION:=
+    :@Read:<CATEGORY>:<TYPE>:<DETAIL>:
+    Example: =:@Read:SUMMARY:NONFICTION:=
 
 * Typical Files
   - =docs/<something>.org= – book notes, chapter summaries, reflections.

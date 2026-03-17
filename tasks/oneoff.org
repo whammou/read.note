@@ -3,7 +3,7 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TITLE: Read Oneoff Tasks
 
-* List of Oneoff Tasks :TASK:ONEOFF:READ:#Meta:
+* List of Oneoff Tasks :%Task:ONEOFF:@Read:#Meta:
 ** PEND Watch podcast on procrastination :PODCAST:
 :PROPERTIES:
 :ID:       97bb5e0b-bdc6-4f6f-a8bc-1b9ec506a721

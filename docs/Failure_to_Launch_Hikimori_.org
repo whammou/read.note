@@ -7,9 +7,9 @@
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TODO: TODO(t) (e) DOIN(d) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+FILETAGS: :DOC:PROJECT:READ:PSYCHOLOGY:
+#+FILETAGS: :%Doc:@Project:@Read:PSYCHOLOGY:
 #+HTML:<details>
 
-* Failure to Launch (Hikimor) :DOC:#Meta:READ:PSYCHOLOGY:
+* Failure to Launch (Hikimor) :%Doc:#Meta:@Read:PSYCHOLOGY:
 #+HTML:</details>
 /A closer look at failure to launch in life/
