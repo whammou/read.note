@@ -7,10 +7,10 @@
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TODO: TODO(t) (e) DOIN(d) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+FILETAGS: :%Doc:@Project:READ:PKM:ZETTELKASTEN:
+#+FILETAGS: :typDoc:@Project:READ:PKM:ZETTELKASTEN:
 #+HTML:<details>
 
-* Zettelkasten Workflow :%Doc:meta:READ:PKM:ZETTELKASTEN:
+* Zettelkasten Workflow :typDoc:meta:READ:PKM:ZETTELKASTEN:
 :PROPERTIES:
 :ID:       1e3cf208-3bec-4d2f-bcb0-a61fdcbfb355
 :END:

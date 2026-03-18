@@ -7,10 +7,10 @@
 #+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+LATEX_HEADER: \renewcommand\maketitle{} \usepackage[scaled]{helvet} \renewcommand\familydefault{\sfdefault}
 #+TODO: TODO(t) (e) DOIN(d) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+FILETAGS: :%Doc:@Project:READ:PKM:ZETTELKASTEN:ORGROAM:
+#+FILETAGS: :typDoc:@Project:READ:PKM:ZETTELKASTEN:ORGROAM:
 #+HTML:<details>
 
-* ZK-roam notes structure :%Doc:meta:READ:PKM:ZETTELKASTEN:ORGROAM:
+* ZK-roam notes structure :typDoc:meta:READ:PKM:ZETTELKASTEN:ORGROAM:
 #+HTML:</details>
 - Notes structure will consist of 2 layers: =PARA= (outer) and =ZETTELKASTEN= (inner)
 - Outer layer notes or PARA is responsible for managing/arrange tasks and processing information

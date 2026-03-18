@@ -3,4 +3,4 @@
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil
 #+TITLE: Read Incidental Tasks
 
-* List of Incidental Tasks :%Task:_Incidental:READ:meta:
+* List of Incidental Tasks :typTask:catIncidental:READ:meta:
