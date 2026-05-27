@@ -4,18 +4,11 @@
 :END:
 #+TITLE: Zettelkasten Workflow
 
-#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :typDoc:subProject:READ:PKM:ZETTELKASTEN:
-#+HTML:<details>
-
-* Zettelkasten Workflow :typDoc:meta:READ:PKM:ZETTELKASTEN:
-:PROPERTIES:
-:ID:       1e3cf208-3bec-4d2f-bcb0-a61fdcbfb355
-:END:
-#+HTML:</details>
 - *OBJECTIVE:* Visualize how to a zettelkasten workflow looks like
-** Note Translating Process Workflow
+* [#A] Note Translating Process Workflow
 :PROPERTIES:
 :ID:       2571fa1d-4106-4bb6-b597-804b7fc0b906
 :END:
@@ -63,7 +56,7 @@
           </p>
           #+end_html
 - *Reference:* [[https://m.opnxng.com/@fairylights_io/the-zettelkasten-method-examples-to-help-you-get-started-8f8a44fa9ae6][Zettelkasten translating notes workflow @Blog]]
-** Linking Process Between Notes
+* [#A] Linking Process Between Notes
 :PROPERTIES:
 :ID:       c75bbd86-a73f-4ad4-8f18-cf314dee1752
 :END:
@@ -80,7 +73,7 @@
 3. Connect notes via =topic index=:
    - A =index topic= note is a note contain a list of links to idea that are directly related to a topic
    - You create a topic indexes once your notes have formed a =topic cluster=
-** Creation of an Index Note
+* [#A] Creation of an Index Note
 :PROPERTIES:
 :ID:       31b2e5ae-035a-423c-bb10-bbab7b5de869
 :END:
@@ -106,7 +99,7 @@
       <IMG src='https://cdn-images-1.medium.com/fit/c/710/426/1*IAs1IKT--tQj9jLeFcVTKQ.png' alt='keyword note' width=50%/>
       </p>
       #+end_html
-** Zettelkasten note search and access
+* [#A] Zettelkasten note search and access
 :PROPERTIES:
 :ID:       64a2f52f-b16c-454b-92b9-9de7a9d431f0
 :END:

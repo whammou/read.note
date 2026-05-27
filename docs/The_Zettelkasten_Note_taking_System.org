@@ -3,34 +3,30 @@
 :END:
 #+TITLE: The Zettelkasten Note-taking System
 
-#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :typDoc:subProject:READ:PKM:ZETTELKASTEN:
-#+HTML:<details>
-
-** The Zettelkasten Note-taking System :typDoc:meta:READ:PKM:ZETTELKASTEN:
-#+HTML:</details>
 - *OBJECTIVE:* Learn the structure of a zettelkasten system
 - *Reference:* [[https://en.wikipedia.org/wiki/Zettelkasten][Zettelkasn @Wikipedia]]
-*** Zettelkasten Atomicity Principle
+* [#A] Zettelkasten Atomicity Principle
 :PROPERTIES:
 :ID:       7f3e2fb8-77aa-4560-8dea-a457bee1cc8d
 :END:
 - *[NOTE]* taken on [2025-06-29 02:43]:
   - Write no more than 2 to 3 sentences and keep it about 1 topic
   - Write in my own words
-*** Types of notes
+* [#A] Types of notes
 - *OBJECTIVE:* Differences different types of notes
 - *[NOTE]* taken on [2025-06-23 01:07]:
   - There are 4 different kind of notes in a ZK system
   - Extra notes for managing a ZK system is called a project note
-**** Reference Note
+** Reference Note
 :PROPERTIES:
 :ID:       0f060514-2ddf-46c9-8239-bec214900da7
 :END:
 - *[NOTE]* taken on [2025-06-23 22:47]:
   - Notes that contain contains page number or index from a blurb of a literature piece e.g. books, article etc, for later use
-**** Permanent Note
+** Permanent Note
 :PROPERTIES:
 :ID:       75718488-5cd3-46f7-abbb-e691be72d4b0
 :END:
@@ -39,28 +35,28 @@
   - Each note are focus on a single idea written in full prose but *SHORT!*
   - Permanent notes are given a alphanumeric [[id:0ce0544c-320b-4aef-9bad-14564ee61474][identifier]]
     - These =ids= help identify clusters of notes since they share the same prefix
-**** Hub Note
+** Hub Note
 :PROPERTIES:
 :ID:       fe01f997-0aef-4081-9b5b-33e20019f9d0
 :END:
 - *[NOTE]* taken on [2025-06-23 01:22]:
   - =Hub= or =Structure note= is a =Meta-note= of the other notes
   - Serve as a tracker or a way to navigate through the note web
-**** Fleeting Note
+** Fleeting Note
 :PROPERTIES:
 :ID:       c7bcfdc5-883f-4e63-8a70-76249d314e21
 :END:
 - *[NOTE]* taken on [2025-06-23 22:00]:
   - Capturing notes, ideas, todos throughout the day
   - Fleeting notes are meant to be discarded after being processed
-**** Project Note
+** Project Note
 :PROPERTIES:
 :ID:       9649ee21-9cb6-4c6c-bfc8-d4481f33f272
 :END:
 - *[NOTE]* taken on [2025-06-23 01:55]:
   - Serve as a pointer to the current on going project
   - Live only for the lifetime of said project
-*** ID system in zettelkasten
+* [#A] ID system in zettelkasten
 :PROPERTIES:
 :ID:       0ce0544c-320b-4aef-9bad-14564ee61474
 :END:
@@ -74,7 +70,7 @@
   #+end_html
   Luhmann's numbering growth by adding notes in between notes by adding a sequence of number or character between indexes
 - *Reference:* [[https://zettelkasten.de/introduction/#the-fixed-address-of-each-note][The fixed address of each note @Zettlekasten.de]]
-**** Naming convention
+** Naming convention
 :PROPERTIES:
 :ID:       f78fe37b-4ff7-4a73-86e9-16ccf28a4888
 :END:
@@ -86,7 +82,7 @@
     - Alphanumeric (1a, 1a1, 1b) - Luhmaan's prefer [[id:0ce0544c-320b-4aef-9bad-14564ee61474][method]]
     - Semantic (physics, math)
 - *Reference:* [[https://www.youtube.com/watch?v=92EEEsptqfI#__preview][Don't over think Address format @Youtube]]
-*** The Indexing System
+* [#A] The Indexing System
 :PROPERTIES:
 :ID:       8bc68863-62d7-4676-9d14-1fe46dc7019f
 :END:
@@ -94,14 +90,14 @@
   - Indexing system is a separate system from the [[id:0ce0544c-320b-4aef-9bad-14564ee61474][ID system in zettelkasten]]
   - Indexing system provides ways to continue or parallel threats while maintain the interconnected linkings
 - *Reference:* [[https://www.youtube.com/embed/92EEEsptqfI?start=2m3s#__preview][ZK Indexing system showcase @Youtube]]
-**** Address of Each Note
+** Address of Each Note
 :PROPERTIES:
 :ID:       242353ef-f564-47bf-985f-8816c09cd780
 :END:
 - *[NOTE]* taken on [2025-06-28 01:08]:
   - Each note in the ZK system contain a unique address using the [[id:0ce0544c-320b-4aef-9bad-14564ee61474][ID system]]
   - Address use alphanumeric [[id:f78fe37b-4ff7-4a73-86e9-16ccf28a4888][Naming Convention]] to provide context for current note
-**** Index Note
+** Index Note
 :PROPERTIES:
 :ID:       6fcda433-18fc-4ec8-b059-eb48bf168d84
 :END:

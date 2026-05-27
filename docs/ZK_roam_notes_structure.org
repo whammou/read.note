@@ -4,13 +4,9 @@
 :END:
 #+TITLE: ZK-roam notes structure
 
-#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :typDoc:subProject:READ:PKM:ZETTELKASTEN:ORGROAM:
-#+HTML:<details>
-
-* ZK-roam notes structure :typDoc:meta:READ:PKM:ZETTELKASTEN:ORGROAM:
-#+HTML:</details>
 - Notes structure will consist of 2 layers: =PARA= (outer) and =ZETTELKASTEN= (inner)
 - Outer layer notes or PARA is responsible for managing/arrange tasks and processing information
   

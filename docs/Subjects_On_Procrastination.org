@@ -4,14 +4,10 @@
 :END:
 #+TITLE: Subjects On Procrastination
 
-#+OPTIONS: title:nil tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
+#+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :typDoc:subProject:READ:PSYCHOLOGY:
-#+HTML:<details>
-
-* Subjects on Procrastination :typDoc:meta:READ:PSYCHOLOGY:
-#+HTML:</details>
 - *OBJECTIVE:* Learn about procrastination and how to defuse it
-*** Do the next best thing
+* [#A] Do the next best thing
 - *OBJECTIVE:* Technique to defuse to procrastination
 - *Reference:* [[https://www.youtube.com/embed/VBifDZwPiI4?start=8m20s#__preview][What is procrastination and how to defuse it @Youtube]]
