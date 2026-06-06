@@ -6,7 +6,7 @@
 
 #+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+FILETAGS: :typDoc:subProject:READ:PKM:ZETTELKASTEN:
+#+FILETAGS: :READ:typDoc:subProject:PKM:ZETTELKASTEN:
 - *OBJECTIVE:* Visualize how to a zettelkasten workflow looks like
 * [#A] Note Translating Process Workflow
 :PROPERTIES:
