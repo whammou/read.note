@@ -1,4 +1,4 @@
-#+FILETAGS: :LIST:READ:RESOURCE:
+#+FILETAGS: :READ:typList:catResource:
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(s) FDBK(b) NEXT(n) TARGET(g) | IDEA(i) ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+OPTIONS: todo:t tags:nil tasks:t ^:nil toc:nil title:nil
 * DONE Zettlekasten examples :ZETTELKASTEN:
