@@ -1,5 +1,6 @@
-#+TITLE: Read Logs
-#+DESCRIPTION: Logs of finidhed items
+#+TITLE: Read Log
+#+DESCRIPTION: Logs of finished items
+#+FILETAGS: :READ:LOG:
 
 * Logs :LOG:READ:
 
