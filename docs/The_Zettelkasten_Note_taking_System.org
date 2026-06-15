@@ -2,7 +2,6 @@
 :ID: cf35e822-78ef-407c-80bc-119142bad329
 :END:
 #+TITLE: The Zettelkasten Note-taking System
-
 #+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
 #+FILETAGS: :topRead:typDoc:subProject:PKM:ZETTELKASTEN:
