@@ -1,6 +1,0 @@
-#+TITLE: Read Log
-#+DESCRIPTION: Logs of finished items
-#+FILETAGS: :topRead:LOG:
-
-* Logs :LOG:topRead:
-
