@@ -5,7 +5,7 @@
 
 #+OPTIONS: title:t tags:nil todo:nil ^:nil f:t num:t pri:nil toc:t
 #+TODO: TODO(t) (e) DOIN(d) PROG(g) PEND(p) OUTL(o) EXPL(x) FDBK(b) WAIT(w) NEXT(n) IDEA(i) | ABRT(a) PRTL(r) RVIW(v) DONE(f)
-#+FILETAGS: :READ:typDoc:subProject:PKM:ZETTELKASTEN:
+#+FILETAGS: :topRead:typDoc:subProject:PKM:ZETTELKASTEN:
 - *OBJECTIVE:* Learn the structure of a zettelkasten system
 - *Reference:* [[https://en.wikipedia.org/wiki/Zettelkasten][Zettelkasn @Wikipedia]]
 * [#A] Zettelkasten Atomicity Principle
