@@ -14,19 +14,6 @@
 - *[NOTE]* taken on [2025-06-20 20:42]:
   PARA and Zettelkasten are very different in nature. While one excel in structural and coordinated notes the other is very chaotic and flexible. However a PKM does not obligated to just one method. There are attempts to mix these methods to create a suitable PKM system for ones knowledge and/or tasks management
 - *Reference:* [[https://l.opnxng.com/r/PKMS/comments/1ae7spf/what_is_pkm/][What is a PKM @Reddit]]
-** DONE Learn PARA system :PARA:
-CLOSED: [2025-06-21 Sat 13:23] DEADLINE: <2025-06-21 Sat 20:00>
-:PROPERTIES:
-:ID:       5ee85686-4255-4634-afbc-c364fa16a025
-:END:
-- *OBJECTIVE:* Learn para system and compare it to current workflow
-- *[NOTE]* taken on [2025-06-21 13:26]:
-  PARA system is very similar to current =pkm= system with some key differences:
-  - PARA notes live in a master directory wheres current system notes live sub-directories
-  - PARA is not scalable with very large amount of notes and lack of cross referencing between notes
-  - PARA is easy to setup but hard to maintain
-  - PARA system is very suitable for tracking tasks and ideas
-- *Reference:* [[https://fortelabs.com/blog/para/][What is para method @Blog]]
 * PRTL Learn zettelkasten system [66%] :ZETTELKASTEN:
 CLOSED: [2025-08-22 Fri 12:03]
 :PROPERTIES:
