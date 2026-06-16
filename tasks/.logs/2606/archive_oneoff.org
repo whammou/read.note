@@ -28,3 +28,61 @@ CLOSED: [2025-06-21 Sat 13:23] DEADLINE: <2025-06-21 Sat 20:00>
   - PARA is easy to setup but hard to maintain
   - PARA system is very suitable for tracking tasks and ideas
 - *Reference:* [[https://fortelabs.com/blog/para/][What is para method @Blog]]
+* DONE Learn Luhmann index system [100%]
+CLOSED: [2025-07-01 Tue 22:05]
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-06-16 Tue 17:38
+:ARCHIVE_FILE: /home/whammou/.local/share/orgmode/read/tasks/oneoff.org
+:ARCHIVE_OLPATH: Learn zettelkasten system [66%]
+:ARCHIVE_CATEGORY: oneoff
+:ARCHIVE_TODO: DONE
+:END:
+- *OBJECTIVE:* What is the Luhmann's index system why it works
+- *Reference:* [[id:8bc68863-62d7-4676-9d14-1fe46dc7019f][The Indexing System @Org]]
+** DONE Learn Naming and Managing Index of Each Note
+CLOSED: [2025-07-01 Tue 22:05] DEADLINE: <2025-07-01 Tue 23:50>
+- *OBJECTIVE:* How to manage large amount of notes using =index-system=
+- *Reference:* [[https://www.youtube.com/embed/92EEEsptqfI?start=2m3s#__preview][ZK Indexing system showcase @Youtube]]
+** DONE Learn Searching Using The Index System
+CLOSED: [2025-07-01 Tue 22:05] DEADLINE: <2025-07-01 Tue 23:50>
+- *OBJECTIVE:* Search for a note using the =index-system=
+- *Reference:* [[https://www.youtube.com/embed/92EEEsptqfI?start=2m28s#__preview][ZK Indexing system walk-through @Youtube]]
+* DONE Linking between notes :ORGROAM:
+CLOSED: [2025-08-22 Fri 11:52] DEADLINE: <2025-08-22 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-06-16 Tue 17:38
+:ARCHIVE_FILE: /home/whammou/.local/share/orgmode/read/tasks/oneoff.org
+:ARCHIVE_OLPATH: Learn zettelkasten system [66%]/Learn Referencing Materials in ZK-system
+:ARCHIVE_CATEGORY: oneoff
+:ARCHIVE_TODO: DONE
+:END:
+- *OBJECTIVE:* Comprehensively link notes and materials
+- *Reference:* [[https://zettelkasten.de/posts/backlinks-are-bad-links/][Backlinks are bad @Zettelkasten-forum]]
+* DONE Learn Folgezettel :FOLGEZETTEL:
+CLOSED: [2025-07-10 Thu 05:56] DEADLINE: <2025-07-10 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-06-16 Tue 17:38
+:ARCHIVE_FILE: /home/whammou/.local/share/orgmode/read/tasks/oneoff.org
+:ARCHIVE_OLPATH: Learn zettelkasten system [66%]
+:ARCHIVE_CATEGORY: oneoff
+:ARCHIVE_TODO: DONE
+:END:
+- *OBJECTIVE:* Learn how to start using Folgekasten in a Zettelkasten system
+- *Reference:* [[https://old.reddit.com/r/Zettelkasten/comments/10sm19g/how_to_use_folgezettel_in_your_zettelkasten/][How to use Folgekasten in zettelkasten @Reddit]]
+* DONE Tasks management :PARA:
+CLOSED: [2025-06-21 Sat 15:15]
+:PROPERTIES:
+:ARCHIVE_TIME: 2026-06-16 Tue 17:38
+:ARCHIVE_FILE: /home/whammou/.local/share/orgmode/read/tasks/oneoff.org
+:ARCHIVE_OLPATH: Develop a hybrid PKM system [50%]
+:ARCHIVE_CATEGORY: oneoff
+:ARCHIVE_TODO: DONE
+:END:
+- *OBJECTIVE:* How to keep daily agenda and notes in a zettelkasten system
+- *Complication:* How to manage daily tasks with zettelkasten
+- *[NOTE]* taken on [2025-06-21 14:00]:
+  - Using PARA system to track and develop tasks
+  - PARA acting as an index node for zettelkasten
+- *Reference:*
+  - [[https://forum.zettelkasten.de/discussion/2037/daily-notes-in-a-zettelkasten][Daily notes in a zettelkasten @Forum-zettlekasten]]
+  - [[https://forum.zettelkasten.de/discussion/100/zettels-and-org-mode][Orgmode and zettle @Forum-zettlekasten]]
