@@ -9,7 +9,7 @@
 - *OBJECTIVE:* What podcast on procastination and checkout [[id:dab253c3-d227-4471-8eda-41f63f36563c][Subjects on procrastination]]
 - *Reference:* [[https://www.youtube.com/watch?v=VBifDZwPiI4#__preview][How to defuse procrastination @Youtube]]
 * TODO [#C] PARA vs zettelkasten :subPKM@subPARA:
-SCHEDULED: <2026-06-21 Sun>
+SCHEDULED: <2026-06-22 Mon>
 #+name:LOGBOOK
 #+html:<details>
 #+html:<summary>LOGBOOK</summary>
