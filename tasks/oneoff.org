@@ -57,11 +57,10 @@ CLOSED: [2025-08-22 Fri 12:03]
 - *OBJECTIVE:* Develop an easy to follow instructions
 ** PEND Ease of accessing information
 - *OBJECTIVE:* How to easily access information from this system
-- [-] *Issue:* [1/2]
-  1. Zettelkasten notes are not easy to access via directory (the nature of the method)
+- [-] *Issue:* [2/3]
+  1. [ ] Zettelkasten notes are not easy to access via directory (the nature of the method)
   2. [X] Github does not support =id-link= e.g. =[[id:<uuid>]]=
-- *[NOTE]* taken on [2025-06-22 02:46]:
-  2. Workaround using =anchor links=
+  2. [X] Workaround using =anchor links=
 - *Reference:* [[id:64a2f52f-b16c-454b-92b9-9de7a9d431f0][Zettelkasten note search and access @Orgmode]]
 ** PRTL Develop notes project structure :PARA:ZETTELKASTEN:
 CLOSED: [2025-07-24 Thu 17:15]
