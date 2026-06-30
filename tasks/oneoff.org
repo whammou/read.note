@@ -8,12 +8,17 @@
 :END:
 - *OBJECTIVE:* What podcast on procastination and checkout [[id:dab253c3-d227-4471-8eda-41f63f36563c][Subjects on procrastination]]
 - *Reference:* [[https://www.youtube.com/watch?v=VBifDZwPiI4#__preview][How to defuse procrastination @Youtube]]
-* TODO [#C] PARA vs zettelkasten :subPKM@subPARA:
-SCHEDULED: <2026-07-01 Wed>
+* DONE [#C] PARA vs zettelkasten :subPKM@subPARA:
+SCHEDULED: <2026-07-01 Wed> CLOSED: [2026-07-01 Wed 02:14]
 #+name:LOGBOOK
 #+html:<details>
 #+html:<summary>LOGBOOK</summary>
 :LOGBOOK:
+- Note taken on [2026-07-01 Wed 02:13] \\
+  =zettelkasten= and =para= are very different systems and should not be compared
+  - A =zettelkasten= system focus mainly on archiving personal knowledge
+  - A =para= system can be less discriminating and allow integration on multiple different workflow
+  
 - Note taken on [2026-06-21 Sun 21:42] \\
     PARA and Zettelkasten are very different in nature. While one excel in structural and coordinated notes the other is very chaotic and flexible. However a PKM does not obligated to just one method. There are attempts to mix these methods to create a suitable PKM system for ones knowledge and/or tasks management
 :END:
